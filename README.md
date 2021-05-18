@@ -4,5 +4,10 @@ Group Project documentation for ICS4U 2021 students.
 ### Included in repository:
 - Group Study Project overview
 - Folder with examples of Project Scope documentation
+<<<<<<< HEAD
+- ADD Marking Rubric
+- 
+=======
 - Marking rubric (to be added)
 - ...
+>>>>>>> main
