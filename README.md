@@ -1,5 +1,5 @@
-# ICS4U_2021_GroupProject
-Group Project documentation for ICS4U 2021 students.
+# ICS4UC_2021_2022_GroupProject
+Group Project documentation for ICS4UC 2021-2022 students.
 
 ### Included in repository:
 - Group Study Project overview
